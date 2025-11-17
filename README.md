@@ -4,7 +4,7 @@ En este proyecto combinamos modelos de lenguaje con recuperación semántica par
 <img width="1024" height="1024" alt="flujo" src="https://github.com/user-attachments/assets/b0bfbb2f-4147-4498-83e4-a17cbeedcfac" />
 
 
-📂 Estructura del proyecto
+Estructura del proyecto
 
 * setup_netflix_sqlite.py: Script para crear y poblar la base de datos SQLite.
 
@@ -20,7 +20,7 @@ En este proyecto combinamos modelos de lenguaje con recuperación semántica par
 
 * netflix.db: Base de datos SQLite con los datos de ejemplo.
 
-🚀 Instrucciones para iniciar y ejecutar la aplicación
+Instrucciones para iniciar y ejecutar la aplicación
 
 1. Asegúrate de tener Python instalado
 Preferiblemente Python 3.8 o superior.
